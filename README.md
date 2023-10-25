@@ -20,6 +20,6 @@ This cycle is repeated, and after completing a set number of cycles, a longer br
 
 ### Screenshots
 <p align="center"> 
-  <img src="https://github.com/SourasishBasu/pomodoro-timer/assets/timer.png" />
+  <img src="https://github.com/SourasishBasu/pomodoro-timer/blob/30e6e3ad197c6b75596971f306faa2aae207d483/assets/timer.png" />
    <br><b>Pomodoro Timer</b>
 </p>
